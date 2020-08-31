@@ -15,6 +15,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'ros-apartment', require: 'apartment'
 gem 'good_job'
+# gem 'good_job', '1.1.2'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
